@@ -1,7 +1,7 @@
 branding:
   site_title: Real Estate Gateway
   logo: /uploads/realestategatewaylogo.png
-  dark_logo:
+  dark_logo: /uploads/realestategatewaylogo.png
   favicon: /uploads/favicon.png
   logo_width: 120
 icons:
@@ -13,15 +13,15 @@ icons:
   seventwo:
 header:
   top_header_color: '#070811'
-  header_background_color: '#ffffff'
+  header_background_color: '#1e1e1e'
   enable_white_text: true
   enable_white_text_top: true
-  transparent_background: true
+  transparent_background: false
   call_to_action_link: https://search.idxhome.com/organizer/login/145641
   call_to_action_label: My Account
   remove_call_to_action: false
   mobile_menu:
-    background_color: '#222'
+    background_color: '#222222'
     enable_white_text: true
 pages:
   image:
