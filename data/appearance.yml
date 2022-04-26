@@ -1,8 +1,8 @@
 branding:
-  site_title:
-  logo:
+  site_title: Real Estate Gateway
+  logo: /uploads/realestategatewaylogo.png
   dark_logo:
-  favicon:
+  favicon: /uploads/favicon.png
   logo_width: 120
 icons:
   onefivetwo:
@@ -17,8 +17,8 @@ header:
   enable_white_text: true
   enable_white_text_top: true
   transparent_background: true
-  call_to_action_link: /contact
-  call_to_action_label: contact
+  call_to_action_link: https://search.idxhome.com/organizer/login/145641
+  call_to_action_label: My Account
   remove_call_to_action: false
   mobile_menu:
     background_color: '#222'
@@ -34,11 +34,11 @@ page_sidebar:
       template: side-blog-category
       comment: Nothing to configure, categories will display.
 colors:
-  button_background_color: '#3fb9be'
+  button_background_color: '#000000'
   button_text_color: '#ffffff'
-  links: '#3fb9be'
-  accent: '#3fb9be'
-  idx_title_background_color:
+  links: '#3ac932'
+  accent: '#3ac932'
+  idx_title_background_color: '#020202'
   idx_title_text_color: '#ffffff'
 search_field:
   disable_search: false
