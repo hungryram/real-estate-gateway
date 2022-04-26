@@ -1,25 +1,29 @@
-company_name:
+company_name: Real Estate Gateway
 social_media:
-  instagram:
+  instagram: https://www.instagram.com/real.estate.gateway/
   twitter:
-  facebook:
-  pinterest:
-  yelp:
-  linkedin:
+  facebook: https://www.facebook.com/RealEstateGateway1/
+  pinterest: https://www.pinterest.com/ElleryRealtor/pins/
+  yelp: >-
+    https://www.yelp.com//biz/andrea-ellery-and-darrylle-ferrara-real-estate-gateway-sacramento
+  linkedin: https://www.linkedin.com/in/andreaellery
   tiktok:
 contact_information:
-  name:
-  cell:
-  phone:
-  email:
-  license:
+  name: Real Estate Gateway
+  cell: (209) 817-1103
+  phone: (916) 588-3750
+  email: andrea@andrearealtor.house
+  license: DRE License 01995762
   address:
   city:
   state:
   zip_code:
   google_page_link:
 search_engine_optimization:
-  title_tag:
-  meta_description:
+  title_tag: Real Estate Gateway - Sacramento and San Joaquin County
+  meta_description: >-
+    Real Estate Gateway works with both buyers and sellers. Satisfied clients
+    are the cornerstone of our business and we are energized by finding housing
+    solutions for our clients.
   twitter_card:
     twitter_username:
