@@ -24,7 +24,8 @@ header:
     background_color: '#222222'
     enable_white_text: true
 pages:
-  image:
+  image: >-
+    https://res.cloudinary.com/hungryram19/image/upload/v1641573296/andrea-ellery/realestategateway/homes-with-green-tree_nznd19.jpg
 page_sidebar:
   sidebar:
     - _type: custom-text
