@@ -37,7 +37,7 @@ home_sections:
     button_link: /about
     image: /uploads/darrylle-marian--andrea.jpg
     image_alt_tag:
-    image_width: 400
+    image_width: 600
   - _type: featured-boxes
     template: featured-boxes
     heading:

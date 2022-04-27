@@ -186,7 +186,9 @@
                 {{ .body | markdownify }}
               </div>
               {{ if and .button_link .button }}
-              <a href="{{ .button_link | absURL }}" class="uk-button uk-button-primary">{{ .button }}</a>
+              <div class="uk-margin-medium-top">
+                <a href="{{ .button_link | absURL }}" class="uk-button uk-button-primary">{{ .button }}</a>
+              </div>
               {{ end }}
             </div>
           </div>
