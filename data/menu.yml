@@ -2,17 +2,20 @@ menu:
   - name: Home
     link:
     menu:
-  - name: Buyers
+  - name: Search Homes
+    link: https://realestategateway.idxhome.com/homesearch/145641
+    menu:
+  - name: About
     link:
     menu:
-      - name: Search Homes
-        link: /
+      - name: About Real Estate Gateway
+        link: /about
         menu:
-  - name: Sellers
-    link:
-    menu:
-      - name: Home Valuation
-        link: /home-valuation/
+      - name: Our Team
+        link: /our-team
+        menu:
+      - name: Testimonials
+        link: /testimonials
         menu:
   - name: Contact
     link: /contact
