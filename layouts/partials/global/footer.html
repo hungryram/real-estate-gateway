@@ -56,13 +56,15 @@
         </div>
     </div>
     <div class="uk-container{{ if $footer.enable_black_text }} uk-dark{{ else }} uk-light{{ end }}">
+        <div class="uk-text-center uk-text-small">
+            <p>Check out my Redfin Partner Agent Reviews <a href="https://www.redfin.com/real-estate-agents/ayannabrewer" target="_blank">Here</a></p>
+        </div>
         <div class="uk-grid">
             <div class="uk-width-1-1 uk-text-center">                
                 <ul class="uk-list">
                     {{ range $footer.important_documents }}
                     <li><a href="{{ .document | absURL }}" target="_blank" class="uk-text-bold">{{ .name }}</a></li>
                     {{ end }}
-
                     <li><small data-cms-options='{"image": false}' class="editable">The data and information contained within this website are for informational purposes. We try our best to keep all information up-to-date but encourage visitors to do their own research to determine the accuracy of material available on this website. While we strive to keep the information accurate, we do not warrant the accuracy or completeness of the information, text, graphics, links, or other items contained within these materials. Please visit our full disclaimer for more information.</small></li>
                     <li><small class="uk-white">&copy; Copyright {{ dateFormat "2006" now }}, {{ .Site.Data.profile.company_name }}  {{ if not $footer.remove_credit }}&middot; <a href="https://www.hungryram.com/services/agent-idx-websites/" target="_blank" class="uk-text-bold" rel="nofollow">Real Estate Website</a> Powered by <a href="https://www.hungryram.com">Hungry Ram Web Design</a>{{ end }}</small></li>
                     {{ if $footer.equal_housing_logo }}
