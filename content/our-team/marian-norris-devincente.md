@@ -6,7 +6,7 @@ draft = false
 
 [contact]
 cell = "(209) 598-2255"
-email = "Marian@MarianNorris.com"
+email = "marian@marianbroker.house"
 
 [details]
 position = "Broker"
