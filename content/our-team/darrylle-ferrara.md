@@ -6,10 +6,10 @@ draft = false
 
 [contact]
 cell = "209.251.5001"
-email = "dhferrara@msn.com"
+email = "darrylle@darryllerealtor.house"
 
 [details]
-position = ""
+position = "Realtor"
 office_location = ""
 license_number = "#01794307"
 website = ""
