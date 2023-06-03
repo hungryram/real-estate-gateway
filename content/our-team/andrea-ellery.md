@@ -9,7 +9,7 @@ cell = "(209) 817-1103"
 email = "andrea@andrearealtor.house"
 
 [details]
-position = ""
+position = "Broker Associate"
 office_location = ""
 license_number = "#01777357"
 website = ""
